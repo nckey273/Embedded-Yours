@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>gauge-01.png</file>
+        <file>g1.png</file>
+        <file>g2.png</file>
+        <file>gg-01.png</file>
+    </qresource>
+</RCC>
